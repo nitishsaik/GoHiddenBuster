@@ -1,6 +1,6 @@
 <h1 align="center"> GO HIDDEN BUSTER </h1>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://nitishsaikommaraju.ml/)
 
 
 <h2>GOHiddenBuster is a tool used to brute-force URIs (directories and files) in web sites.</h2>
@@ -41,9 +41,9 @@ NitishSaikommaraju – [@Nitishsaik](https://twitter.com/Nitishsaik) – kommara
 
 ### 🤝 Contributing
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://GitHub.com/Naereen/) 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://nitishsaikommaraju.ml/) 
 [![](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://www.paypal.me/nitishsai1999)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://nitishsaikommaraju.ml/)
 
 
 
