@@ -13,7 +13,7 @@ func main() {
 
 	runtime.GOMAXPROCS(4)
 
-	file, err := os.Open("./hell.txt")
+	file, err := os.Open("./xxxx.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -25,7 +25,7 @@ func main() {
 	scanner.Split(bufio.ScanWords)
 
 	for scanner.Scan() {
-		var URL string = "https://www.weshare.gift/" + scanner.Text()
+		var URL string = "https://xxxxxxxxxx" + scanner.Text()
 		resp, err := http.Get(URL)
 		if err != nil {
 			log.Fatal(err)
