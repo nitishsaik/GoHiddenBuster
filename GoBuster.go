@@ -9,6 +9,16 @@ import (
 	"runtime"
 )
 
+
+/*
+Change os.open("/usr/share/wordlist/**.txt) or any custom location
+
+change URL String ="xxxxxxxx" with custom domain 
+Feel free to contribute
+
+
+
+*/
 func main() {
 
 	runtime.GOMAXPROCS(4)
